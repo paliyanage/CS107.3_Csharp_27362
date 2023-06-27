@@ -1,0 +1,15 @@
+/Users/adithya/Desktop/CS107.3-27362/text3/text3/bin/Debug/net7.0/text3
+/Users/adithya/Desktop/CS107.3-27362/text3/text3/bin/Debug/net7.0/text3.deps.json
+/Users/adithya/Desktop/CS107.3-27362/text3/text3/bin/Debug/net7.0/text3.runtimeconfig.json
+/Users/adithya/Desktop/CS107.3-27362/text3/text3/bin/Debug/net7.0/text3.dll
+/Users/adithya/Desktop/CS107.3-27362/text3/text3/bin/Debug/net7.0/text3.pdb
+/Users/adithya/Desktop/CS107.3-27362/text3/text3/obj/Debug/net7.0/text3.csproj.AssemblyReference.cache
+/Users/adithya/Desktop/CS107.3-27362/text3/text3/obj/Debug/net7.0/text3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adithya/Desktop/CS107.3-27362/text3/text3/obj/Debug/net7.0/text3.AssemblyInfoInputs.cache
+/Users/adithya/Desktop/CS107.3-27362/text3/text3/obj/Debug/net7.0/text3.AssemblyInfo.cs
+/Users/adithya/Desktop/CS107.3-27362/text3/text3/obj/Debug/net7.0/text3.csproj.CoreCompileInputs.cache
+/Users/adithya/Desktop/CS107.3-27362/text3/text3/obj/Debug/net7.0/text3.dll
+/Users/adithya/Desktop/CS107.3-27362/text3/text3/obj/Debug/net7.0/refint/text3.dll
+/Users/adithya/Desktop/CS107.3-27362/text3/text3/obj/Debug/net7.0/text3.pdb
+/Users/adithya/Desktop/CS107.3-27362/text3/text3/obj/Debug/net7.0/text3.genruntimeconfig.cache
+/Users/adithya/Desktop/CS107.3-27362/text3/text3/obj/Debug/net7.0/ref/text3.dll
